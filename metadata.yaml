@@ -1,0 +1,30 @@
+_repo: The-Public-Square_69035
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Comfort, Will Levington
+    birthdate: 1878
+    deathdate: 1932
+    gutenberg_agent_id: '2012'
+    url: http://www.gutenberg.org/2009/agents/2012
+    wikipedia: https://en.wikipedia.org/wiki/Will_Levington_Comfort
+description: ''
+gutenberg_issued: '2022-09-24'
+identifiers:
+  gutenberg: '69035'
+language: en
+pgterms:marc904: https://archive.org/details/publicsquare00comf/page/320/mode/2up
+pgterms:marc905: 20211118170400comfort
+pgterms:marc906: '1923'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Library of Congress)
+publication_note: United States :D. Appleton and Company,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Public Square
+url: http://www.gutenberg.org/ebooks/69035
