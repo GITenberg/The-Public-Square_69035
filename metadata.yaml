@@ -1,5 +1,8 @@
 _repo: The-Public-Square_69035
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69035-h/images/cover.jpg
 creator:
   author:
     agent_name: Comfort, Will Levington
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2012
     wikipedia: https://en.wikipedia.org/wiki/Will_Levington_Comfort
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69035#The-Public-Square
 gutenberg_issued: '2022-09-24'
 identifiers:
   gutenberg: '69035'
